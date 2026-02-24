@@ -440,7 +440,7 @@ This project is for educational and portfolio purposes. All data is sourced from
 
 ## 👨‍💻 Author
 
-**Mohammed Abdullah Alzubaidi**
-* 🌐 **Portfolio:** [Alzubaidi.me](https://alzubaidi.me)
-* ✉️ **Email:** Mohammed@Alzubaidi.me
+**Mohammed Abdullah Alzobaidi**
+* 🌐 **Portfolio:** [Alzobaidi.me](https://alzobaidi.me)
+* ✉️ **Email:** Mohammed@Alzobaidi.me
 * 🕮 **X (Twitter):** [@x7ciy](https://x.com/x7ciy)
